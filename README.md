@@ -97,7 +97,7 @@ Manager	manager1@example.com
 🖼 Screenshots
 🔐 Login Page
 
-![alt text](<Screenshot 2025-11-30 134002-1.png>)
+Screenshot 2025-11-30 134002-1.png
 
 
  Employee Dashboard
